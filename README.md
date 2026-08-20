@@ -34,6 +34,17 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔍 IP & Port Scanner
+A Python-based network reconnaissance tool that scans IP addresses and ports to identify accessible services.
+
+- **Language:** Python
+- **Features:** IP scanning, port scanning, service detection
+- **Focus:** Networking & Cybersecurity
+
+[View Project →]
+
 ### 🏛️ Active Directory Home-Lab Highlights
 > *Building a realistic enterprise environment with strict domain policies and security configurations.*
 - 🔑 **Identity & Access Management:** Custom User Roles, Organizational Units (OUs), and Granular Password Policies.
