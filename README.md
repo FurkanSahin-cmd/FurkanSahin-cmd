@@ -36,14 +36,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 IP & Port Scanner
-A Python-based network reconnaissance tool that scans IP addresses and ports to identify accessible services.
+### 🔍 CyberSentinel — Network & Security Analyzer
+A web-based network reconnaissance tool built with Python, Flask, JavaScript, and Socket Programming.
 
-- **Language:** Python
-- **Features:** IP scanning, port scanning, service detection
-- **Focus:** Networking & Cybersecurity
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Backend:** Python 3, Flask, Flask-CORS
+- **Networking:** Socket Programming, TCP/IP, DNS Resolution
+- **Features:** IP/Domain Resolution, TCP Port Scanning, GeoIP Lookup
 
-[View Project →]
+[View Project →](https://github.com/FurkanSahin-cmd/ip-port-scanner)
 
 ### 🏛️ Active Directory Home-Lab Highlights
 > *Building a realistic enterprise environment with strict domain policies and security configurations.*
