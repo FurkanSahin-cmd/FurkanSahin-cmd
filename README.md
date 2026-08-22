@@ -13,7 +13,7 @@
   - 🛡️ CompTIA Security+
   - 🌐 CompTIA Network+
   - 💻 CompTIA A+
-- 🧪 **Current Project:** Enterprise Windows Server / Active Directory Home-Lab & Cyber Tools. / CyberSentinel — Network & Security Analyzer
+- 🧪 **Current Project:** Enterprise Windows Server / Active Directory Home-Lab & Cyber Tools. / CyberSentinel — Network & Security Analyzer / Netmapper Local Recon
 
 ---
 
