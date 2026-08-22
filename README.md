@@ -36,6 +36,17 @@
 
 ## 🚀 Featured Projects
 
+### 🛰️ NetMapper — Layer 2 ARP Network Mapper
+
+A local network reconnaissance tool built with Python, Scapy, and Flask featuring a Cyber-Terminal Web GUI.
+
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript (Fetch API)
+- **Backend:** Python 3, Flask, Flask-CORS
+- **Networking:** Scapy (Layer 2 ARP Framing & Socket Sniffing)
+- **Features:** Active Host Discovery, MAC/IP Address Mapping, Subnet Scanner
+
+[View Project →](https://github.com/FurkanSahin-cmd/net-mapper)
+
 ### 🔍 CyberSentinel — Network & Security Analyzer
 A web-based network reconnaissance tool built with Python, Flask, JavaScript, and Socket Programming.
 
